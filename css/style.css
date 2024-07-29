@@ -1,0 +1,32 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.section{
+    margin: 50px 300px;
+    width: 700px;
+    height: 300px;
+    border: 1px solid pink;
+    padding: 20px 30px;
+    background-color:pink;
+}
+.container{
+    margin-top:20px;
+    font-size: 20px;
+    color: rgba(128, 128, 128, 0.774);
+}
+textarea{
+    padding:5px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 15px;
+}
+#total{
+    margin-right: 320px;
+}
+#tCount{
+    color: darkmagenta;
+}
+#rCount{
+    color: darkred;
+}
